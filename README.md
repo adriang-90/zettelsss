@@ -1,4 +1,4 @@
-# My personal zettlekasten repo
+# My personal Zettelkasten repo
 
 **Zettlekasten** (ger. _"slip box"_) is a method of note taking. You can compare it to a filesystem of your computer.
 
