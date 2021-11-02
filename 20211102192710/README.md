@@ -1,0 +1,12 @@
+# Linu(s)x Approach
+* Linux networking commands [video](https://geekflare.com/linux-networking-commands/)
+* Processes in linux [video](https://www.tecmint.com/linux-process-management/)  
+Gotta know that kill commands like:
+    * ***kill -l*** 
+    * ***kill 9***
+    * ***pkill*** ; ***killall***
+
+
+
+
+
