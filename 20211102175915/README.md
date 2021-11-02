@@ -1,7 +1,7 @@
 # Markdown Cheatsheet
 
-## Language for writers
-----
+### Language for writers
+
 * Common Mark specification
 * <https://rwxrob.gg/lang/md>
 * Put hyperlink references for links longer than 50 letters ([video])
