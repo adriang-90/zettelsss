@@ -5,7 +5,12 @@ Gotta know that kill commands like:
     * ***kill -l*** 
     * ***kill 9***
     * ***pkill*** ; ***killall***
-
+* 5 basic linux components:  
+  * Bootloader
+  * OS Kernel
+  * Background services
+  * OS Shell
+  * End user services (GUI, DE, Apps)
 
 
 
