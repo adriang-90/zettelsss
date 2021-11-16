@@ -6,7 +6,7 @@
 * putting **\** before command removes any aliases, functions etc.
 * type *command* is really cool to show where the command is (similar to which). Show aliases too.
 * *stty -ixon* to disable ctrl+s shortcut (which suspend the terminal)
-* 
+* custom P1 to configure command prompt
 
 # Background and Foreground Running Programs
 * *fg* command moves job to the foreground
