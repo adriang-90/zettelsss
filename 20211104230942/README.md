@@ -1,7 +1,7 @@
 # Terminal configuration
 
 **set -o vi** 
-* **/text** to find a command with specific text
+* **/text** to find a with specific text
 * putting space(s) before command gets you into *incognito* mode. This command will not be saved in history.
 * putting **\** before command removes any aliases, functions etc.
 * type *command* is really cool to show where the command is (similar to which). Show aliases too.
