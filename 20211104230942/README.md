@@ -8,6 +8,6 @@
 * *stty -ixon* to disable ctrl+s shortcut (which suspend the terminal)
 * custom P1 to configure command prompt
 * restoring **ESC** key to its original destiny
-`test -n "$DISPLAY" && setxkbmap -option caps:escape &>dev/null
+`test -n "$DISPLAY" && setxkbmap -option caps:escape &>dev/null`
 * Always use *Ctrl-[* instead of *ESC*
 
