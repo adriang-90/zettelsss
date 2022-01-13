@@ -10,7 +10,6 @@ Step by step instruction to create a basic container with linux and stuff.
 1. inside a container
     1. unminimize 
     1. apt update
-    1. apt install nvi
-    1. apt install vim
+    1. apt install vim (vi is installed with it as well)
     
 
